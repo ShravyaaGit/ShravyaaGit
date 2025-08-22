@@ -1,4 +1,4 @@
-## Hi there 👋 I am Shravya Thammishetti
+## Hi there👋 I am Shravya Thammishetti
 ### 🚀 **Data Analyst @ Dell Technologies** | **Data Enthusiast** | **Azure, AI & Power BI Certified** | **NIT Nagpur**
 
 🚀 **About Me:**  
