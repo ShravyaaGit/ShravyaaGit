@@ -35,8 +35,8 @@ I am a Data Engineer and AI enthusiast experienced in designing cloud-based pipe
 ---
 
 # 💻 Tech Stack
->• **Cloud & DevOps**: Azure Data Factory, Azure Databricks, Azure SQL, Azure Storage, Azure Pipelines, Azure Repos, Terraform 
->• **Programming**: Python, PySpark, SQL, OOP, Data Structures & Algorithms
+>• **Cloud & DevOps**: Azure Data Factory, Azure Databricks, Azure SQL, Azure Storage, Azure Pipelines, Azure Repos, Terraform
+>**Programming**: Python, PySpark, SQL, OOP, Data Structures & Algorithms
 >• **Analytics & BI**: Power BI, Delta Lake, Data Warehousing (DWH), Data Profiling, Data Quality Handling
 >• **Machine Learning & AI**: LLMs, OpenAI (Whisper), Scikit-learn, RAG, NLP (NLTK, spaCy, VADER, TextBlob), Sentiment Analysis, FAISS, Regression, Classification, Feature Engineering
 
