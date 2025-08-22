@@ -1,5 +1,5 @@
 ## Hi there👋 I am Shravya Thammishetti
-### 🚀 **Data Analyst @ Dell Technologies** | **Data Enthusiast** | **Azure, AI & Power BI Certified** | **NIT Nagpur**
+### **Data Analyst @ Dell Technologies** | **Data Enthusiast** | **Azure, AI & Power BI Certified** | **NIT Nagpur**
 
 🚀 **About Me:**  
 I am a Data Engineer and AI enthusiast experienced in designing cloud-based pipelines and applying NLP, ML, and Generative AI to real-world business problems. I focus on building solutions that are *powerful*, *efficient*, and *reliable*.
