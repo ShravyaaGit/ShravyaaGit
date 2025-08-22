@@ -2,6 +2,7 @@
 ### 🚀 **Data Analyst @ Dell Technologies** | **Data Enthusiast** | **Azure, AI & Power BI Certified** | **NIT Nagpur**
 
 🚀 **About Me:**  
+
 I am a Data Engineer and AI enthusiast experienced in designing cloud-based pipelines and applying NLP, ML, and Generative AI to real-world business problems. I focus on building solutions that are *powerful*, *efficient*, and *reliable*.
 
 ---
@@ -28,16 +29,16 @@ I am a Data Engineer and AI enthusiast experienced in designing cloud-based pipe
 ---
 
 ## 🌐 Connect with Me:
-[LinkedIn](https://www.linkedin.com/in/shravya14/)
-[Email](mailto:thammishettishravya@gmail.com)
+>[LinkedIn](https://www.linkedin.com/in/shravya14/)
+>[Email](mailto:thammishettishravya@gmail.com)
 
 ---
 
 # 💻 Tech Stack
-• **Cloud & DevOps**: Azure Data Factory, Azure Databricks, Azure SQL, Azure Storage, Azure Pipelines, Azure Repos, Terraform
-• **Programming**: Python, PySpark, SQL, OOP, Data Structures & Algorithms
-• **Analytics & BI**: Power BI, Delta Lake, Data Warehousing (DWH), Data Profiling, Data Quality Handling
-• **Machine Learning & AI**: LLMs, OpenAI (Whisper), Scikit-learn, RAG, NLP (NLTK, spaCy, VADER, TextBlob), Sentiment Analysis, FAISS, Regression, Classification, Feature Engineering
+>• **Cloud & DevOps**: Azure Data Factory, Azure Databricks, Azure SQL, Azure Storage, Azure Pipelines, Azure Repos, Terraform 
+>• **Programming**: Python, PySpark, SQL, OOP, Data Structures & Algorithms
+>• **Analytics & BI**: Power BI, Delta Lake, Data Warehousing (DWH), Data Profiling, Data Quality Handling
+>• **Machine Learning & AI**: LLMs, OpenAI (Whisper), Scikit-learn, RAG, NLP (NLTK, spaCy, VADER, TextBlob), Sentiment Analysis, FAISS, Regression, Classification, Feature Engineering
 
 
 
