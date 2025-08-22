@@ -39,7 +39,7 @@ I am a Data Engineer and AI enthusiast experienced in designing cloud-based pipe
 **Analytics & BI**: Power BI, Delta Lake, Data Warehousing (DWH), Data Profiling, Data Quality Handling  
 **Machine Learning & AI**: LLMs, OpenAI (Whisper), Scikit-learn, RAG, NLP (NLTK, spaCy, VADER, TextBlob), Sentiment Analysis, FAISS, Regression, Classification, Feature Engineering  
 
-
+> *"Let’s harness the power of code, data, and technology to build solutions that make the world a better place"* 🌟💻🌱🤝
 
 
 <!--
